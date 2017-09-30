@@ -11,6 +11,7 @@
     <title>Demo for hw step1</title>
   </head>
   <body>
+  <p><a href="webapi/hello"> Jersey resource</a></p>
   Hello REST
   </body>
 </html>
